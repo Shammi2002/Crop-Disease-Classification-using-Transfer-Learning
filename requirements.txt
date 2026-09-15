@@ -1,0 +1,9 @@
+tensorflow>=2.10.0
+numpy
+pandas
+matplotlib
+pillow
+split-folders
+fastapi
+uvicorn
+python-multipart
