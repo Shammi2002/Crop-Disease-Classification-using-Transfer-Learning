@@ -1,3 +1,4 @@
+<img width="1919" height="910" alt="crop disease prediction result" src="https://github.com/user-attachments/assets/f54f1341-14c5-4d78-9bf1-1dbb6eec1f3d" />
 # Crop-Disease-Classification-using-Transfer-Learning
 Multi-class plant disease classification using EfficientNetB4 transfer learning and TensorFlow/Keras
 
