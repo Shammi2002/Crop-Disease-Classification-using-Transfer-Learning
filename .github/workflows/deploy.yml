@@ -6,6 +6,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  repository_dispatch:
+    types: [model-updated]
 
 env:
   PROJECT_ID: my-project-imageclassifier
