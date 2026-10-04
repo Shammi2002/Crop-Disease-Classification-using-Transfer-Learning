@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/c972094d-6ca3-4ce3-9e21-1ae36f502251
 An end-to-end machine learning project that takes a crop leaf image classifier from a Colab notebook to a live, production-deployed REST API — complete with a web interface, pesticide recommendations, and an automated CI/CD pipeline.
 
 ## Overview
-This project classifies crop leaf images into 39 categories (38 disease classes across 14 crop species, plus a "no leaf" background class) and returns a matched pesticide/treatment recommendation sourced from official agricultural guidance. The model is trained using transfer learning and deployed as a containerized, serverless REST API on Google Cloud Run, with an automated build-and-deploy pipeline via GitHub Actions.
+This project classifies crop leaf images into 56 categories and returns a matched pesticide/treatment recommendation sourced from official agricultural guidance. The model is trained using transfer learning and deployed as a containerized, serverless REST API on Google Cloud Run, with an automated build-and-deploy pipeline via GitHub Actions.
 
 ## Features
 1. Image classification — identifies crop disease from an uploaded leaf photo
