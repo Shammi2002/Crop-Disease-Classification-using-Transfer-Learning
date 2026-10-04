@@ -65,7 +65,7 @@ docker run -p 5000:5000 \
   -e SUPABASE_KEY=your_supabase_key \
   image_classifier
 
-#### Test it : curl http://localhost:5000/health. The app will be available at http://localhost:5000.
+#### Test it : curl http://localhost:5000/health
 
 Note: The trained model file is not included in this repository due to GitHub's file size limits. It is fetched from Google Cloud Storage during the CI/CD build. To run locally, download the model separately and place it at app/plant_disease_model.keras.
 
